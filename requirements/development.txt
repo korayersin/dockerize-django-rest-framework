@@ -5,10 +5,8 @@ Markdown
 django-filter
 django-cors-headers
 django-material==1.1.0
-pillow
 django-cleanup
 requests
-psycopg2
 celery==4.1.1
 SQLAlchemy==1.2.0
 xlrd
